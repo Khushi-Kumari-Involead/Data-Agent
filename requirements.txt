@@ -1,0 +1,8 @@
+duckdb
+pandas
+numpy
+streamlit
+matplotlib
+langchain_ollama
+pillow
+openpyxl
